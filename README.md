@@ -1,13 +1,6 @@
 # Project-Chronix
 ChroniX is a smart healthcare system that monitors and provides early prediction alerts for chronic conditions like heart disease and asthma.
 
-
-
-# ChroniX – Smart Healthcare Monitoring & Prediction System  
-
-ChroniX is a healthcare support device developed during the ECO-TRONICS 24-hour hackathon at SRM Ramapuram.  
-The system is designed to assist people with chronic diseases by continuously monitoring health parameters and providing early prediction alerts for critical conditions.
-
 ---
 
 ## Problem Statement  
@@ -50,7 +43,7 @@ ChroniX provides a smart monitoring and predictive system that:
 3. Thresholds and patterns are analyzed  
 4. Alerts are triggered when abnormal values are detected  
 5. Provides early indication of potential risk  
-
+6.Most important it uses ml and compares it with prevoius data and give more accurate data
 ---
 
 ##  Outcome  
