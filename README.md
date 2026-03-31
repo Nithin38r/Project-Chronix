@@ -3,20 +3,20 @@ ChroniX is a smart healthcare system that monitors and provides early prediction
 
 
 
-# 🚀 ChroniX – Smart Healthcare Monitoring & Prediction System  
+# ChroniX – Smart Healthcare Monitoring & Prediction System  
 
 ChroniX is a healthcare support device developed during the ECO-TRONICS 24-hour hackathon at SRM Ramapuram.  
 The system is designed to assist people with chronic diseases by continuously monitoring health parameters and providing early prediction alerts for critical conditions.
 
 ---
 
-## 🩺 Problem Statement  
+## Problem Statement  
 Patients with chronic diseases such as heart conditions and asthma require continuous monitoring.  
 Unexpected health fluctuations can lead to serious complications if not detected early.
 
 ---
 
-## 💡 Solution  
+## Solution  
 ChroniX provides a smart monitoring and predictive system that:
 - Tracks essential health parameters  
 - Analyzes patterns in real-time  
@@ -25,17 +25,17 @@ ChroniX provides a smart monitoring and predictive system that:
 
 ---
 
-## ⚙️ Features  
-- 📊 Real-time health monitoring  
-- ⚠️ Early warning system for critical conditions  
-- 🫀 Focus on heart-related parameters  
-- 🌬️ Support for asthma condition monitoring  
-- 📡 Sensor-based data collection  
-- 🔍 Basic predictive analysis  
+## Features  
+-  Real-time health monitoring  
+-  Early warning system for critical conditions  
+-  Focus on heart-related parameters  
+-  Support for asthma condition monitoring  
+-  Sensor-based data collection  
+-  Basic predictive analysis  
 
 ---
 
-## 🛠️ Tech Stack  
+##  Tech Stack  
 - Embedded Systems (ESP32 / Microcontroller)  
 - Sensors (health/environment monitoring)  
 - IoT Communication  
@@ -43,7 +43,7 @@ ChroniX provides a smart monitoring and predictive system that:
 
 ---
 
-## 🧠 How It Works  
+##  How It Works  
 1. Sensors collect real-time data from the user  
 2. Data is processed using embedded logic  
 3. Thresholds and patterns are analyzed  
@@ -52,7 +52,7 @@ ChroniX provides a smart monitoring and predictive system that:
 
 ---
 
-## 👨‍💻 Team ChroniX  
+##  Team ChroniX  
 - Pandiyarajan S  
 - Ambrish Roshan S  
 - Charan S  
@@ -60,17 +60,17 @@ ChroniX provides a smart monitoring and predictive system that:
 
 ---
 
-## 🎯 Outcome  
+##  Outcome  
 Although developed within 24 hours, ChroniX demonstrates the potential of combining embedded systems and healthcare to create impactful real-world solutions.
 
 ---
 
-## 🔗 Demo / Links  
+##  Demo / Links  
 (Add your demo video / presentation / hackathon link here)
 
 ---
 
-## 📌 Future Improvements  
+##  Future Improvements  
 - Advanced AI-based prediction  
 - Mobile app integration  
 - Cloud data storage and analytics  
@@ -78,10 +78,10 @@ Although developed within 24 hours, ChroniX demonstrates the potential of combin
 
 ---
 
-## 🙌 Acknowledgment  
+##  Acknowledgment  
 Developed as part of ECO-TRONICS Hackathon – SRM Ramapuram  
 
 ---
 
-## 📜 License  
+##  License  
 This project is for educational and research purposes.
