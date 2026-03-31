@@ -39,7 +39,8 @@ ChroniX provides a smart monitoring and predictive system that:
 - Embedded Systems (ESP32 / Microcontroller)  
 - Sensors (health/environment monitoring)  
 - IoT Communication  
-- Data Processing & Analysis  
+- Data Processing & Analysis
+- tiny ml for predecting the contions on before hand
 
 ---
 
@@ -52,21 +53,8 @@ ChroniX provides a smart monitoring and predictive system that:
 
 ---
 
-##  Team ChroniX  
-- Pandiyarajan S  
-- Ambrish Roshan S  
-- Charan S  
-- Nithin  
-
----
-
 ##  Outcome  
 Although developed within 24 hours, ChroniX demonstrates the potential of combining embedded systems and healthcare to create impactful real-world solutions.
-
----
-
-##  Demo / Links  
-(Add your demo video / presentation / hackathon link here)
 
 ---
 
@@ -80,8 +68,3 @@ Although developed within 24 hours, ChroniX demonstrates the potential of combin
 
 ##  Acknowledgment  
 Developed as part of ECO-TRONICS Hackathon – SRM Ramapuram  
-
----
-
-##  License  
-This project is for educational and research purposes.
